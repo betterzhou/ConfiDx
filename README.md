@@ -18,7 +18,7 @@ Full credit for the core model implementation and training framework belongs to 
 
 ### Environment
 
-Install LitGPT:
+Install packages:
 ```bash
 pip install 'litgpt[extra]'
 ```
@@ -67,3 +67,7 @@ Please kindly cite the paper if you are interested in our work.
   publisher={Nature Publishing Group UK London}
 }
 ```
+
+or
+
+Zhou, S., Wang, J., Xu, Z. et al. Uncertainty-aware large language models for explainable disease diagnosis. npj Digit. Med. 8, 690 (2025). https://doi.org/10.1038/s41746-025-02071-6
