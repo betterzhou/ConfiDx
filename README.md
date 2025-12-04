@@ -52,10 +52,13 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 litgpt finetune_lora meta-llama/Meta-Llama-
 ```
 
 
+## 4. Contact
+
 For research cooperation, please contact shuang DOT zhou AT connect.polyu DOT hk
 
 
-## 4. Citation
+
+## 5. Citation
 Please kindly cite the paper if you are interested in our work.
 ```bib
 @article{zhou2025uncertainty,
