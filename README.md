@@ -47,7 +47,6 @@ Place the JSON file in the corresponding folder. See "[Tutorial](https://github.
 
 Set up the config file before running the code.
 ```bash
-cd ./litgpt/
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 litgpt finetune_lora stabilityai/stablelm-base-alpha-3b --device 8 --precision "bf16-true"
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 litgpt finetune_lora meta-llama/Meta-Llama-3.1-70B-Instruct --device 8 --precision "bf16-true"
 ```
