@@ -8,9 +8,7 @@ This repository contains code for the paper "Uncertainty-Aware Large Language Mo
 ## 2. Acknowledgment
 
 This repository is built upon the **LitGPT** framework developed by the Lightning-AI team.  
-Most of the training and model implementation code is derived from the official LitGPT repository:
-
-> https://github.com/Lightning-AI/litgpt
+Most of the training and model implementation code is derived from the official "[LitGPT](https://github.com/Lightning-AI/litgpt)" repository.
 
 We have made some modifications to the original codebase to support the experiments and datasets used in our research paper.  
 Full credit for the core model implementation and training framework belongs to the LitGPT authors.
@@ -43,7 +41,7 @@ Please organize the data into JSON format:
 }
 ```
 
-Place the JSON file in the corresponding folder. See https://github.com/Lightning-AI/litgpt/tree/main for details.
+Place the JSON file in the corresponding folder. See "[Tutorial](https://github.com/Lightning-AI/litgpt)" for details.
 
 ### Example
 
